@@ -1,0 +1,18 @@
+[project]
+name = "agentic-design-patterns"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.8"
+dependencies = [
+    "crewai>=1.6.1",
+    "google-adk>=1.28.0",
+    "google-genai>=1.68.0",
+    "jupyter>=1.1.1",
+    "langchain>=1.2.13",
+    "langchain-google-genai>=4.2.1",
+    "langchain-openai>=1.1.12",
+    "nest-asyncio>=1.6.0",
+    "openai>=2.30.0",
+    "python-dotenv>=1.2.2",
+]
